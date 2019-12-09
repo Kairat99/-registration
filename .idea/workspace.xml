@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f30cbf5e-30a9-41fc-afdc-e8776ae44031" name="Default Changelist" comment="" />
+    <list default="true" id="f30cbf5e-30a9-41fc-afdc-e8776ae44031" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/templates/account/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/account/templates/account/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/account/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmark/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmark/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Ueoecf6JTrirXEJDZQ3mXzK3QD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,7 +69,8 @@
       <updated>1575726517077</updated>
       <workItem from="1575726519481" duration="108000" />
       <workItem from="1575726638590" duration="1891000" />
-      <workItem from="1575775496558" duration="31707000" />
+      <workItem from="1575775496558" duration="32307000" />
+      <workItem from="1575863980050" duration="4778000" />
     </task>
     <servers />
   </component>
@@ -71,10 +82,10 @@
       <screen x="0" y="27" width="1366" height="688" />
     </state>
     <state x="466" y="128" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.688@0.27.1366.688" timestamp="1575726625742" />
-    <state x="339" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1575775509808">
+    <state x="339" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1575863985521">
       <screen x="0" y="27" width="1366" height="688" />
     </state>
-    <state x="339" y="197" key="com.intellij.ide.util.TipDialog/0.27.1366.688@0.27.1366.688" timestamp="1575775509808" />
+    <state x="339" y="197" key="com.intellij.ide.util.TipDialog/0.27.1366.688@0.27.1366.688" timestamp="1575863985521" />
     <state x="218" y="61" width="920" height="618" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575781823317">
       <screen x="0" y="27" width="1366" height="688" />
     </state>
